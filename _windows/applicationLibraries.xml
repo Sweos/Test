@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="junit4">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/Lib java/junit4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="vlcj-4.1">
       <CLASSES>
         <root url="file://$USER_HOME$/Desktop/Lib java/vlcj-4.1.0" />

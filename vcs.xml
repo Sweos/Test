@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/MikelFuentes/Notflix" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codeberg.org/Freeyourgadget/Gadgetbridge.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Aitor\IdeaProjects" />
